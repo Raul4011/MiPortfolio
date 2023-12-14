@@ -1,0 +1,45 @@
+{
+    "Home":"Principal",
+    "Notes":"Notas",
+    "About":"Acerca de..",
+    "Contact":"Contactame",
+    "Main":{
+        "Salute":"Hola me Llamo Raul",
+        "H1":"Soy un desarrolador Fullstack",
+        "H3":"Soy un desarrolador Junior en crecimiento trabaje con Node.js en el backend y Javascript en el Frontend",
+        "Br":"Tambien eh aprendido React, Express, Bootstrap , Git , Mysql, etc"
+    },
+    "Section":{
+        "Salute":"Hola como te encuentras Hoy?",
+        "P1":"Me llamo Raul Politi y soy un desarrollador Web FullStack.",
+        "P2":"Me gradue en la Facultad Regional de Tucuman (FRT UNT) aprendi C# , Javascript y otros lenguajes de programacion.",
+        "P3":"Aprendi Node js en backend y React.Js en el Frontend tambien Bases de Datos Relacionales ( Mysql , PostgreSql , SqlServer etc ) y bases de datos No-Relacionales ( MongoDB ,Cassandra, JSON ). En Node.js use el framework Express y el framework Next.js en React",
+        "P4":"Tambien desarrolle programas con el Patron de Diseño MVC(Modelo vista controlador) en .NET conectando la base de datos x medio de capas y niveles."
+    },
+    "Aside":{
+        "Title":"Un Poco de Mi...",
+        "P1Aside":"Raul Politi es un Programador Universitario ,dedicado y apasionado por el diseño y desarrollo web. Nació en 1981, en San Miguel de Tucumán, Argentina. Actualmente diseña, desarrolla e implementa aplicaciones web dando diferentes soluciones a distintas empresas. Comenzó a capacitarse en desarrollo web, desde que descubrió su gusto y pasión por la programación, primero aprendiendo las bases del desarrollo y hoy brindando servicios de soluciones web a terceros. Ha trabajado en diferentes empresas, donde su compromiso y dedicación siempre han sido notados por sus empleadores. Ha creado proyectos desde lo más simple en diseño de interfaces y plantillas, hasta soluciones full stack, siendo su favorito MERN Stack. Con el tiempo ha crecido profesionalmente, aprendiendo constantemente las modernas tecnologías utilizadas para la implementación de aplicaciones.",
+        "P2Aside":"En este ultimo año se convirtio en Profesor de Programacion en la Facultad Regional de Tucuman, lugar donde termine mis estudios, su gran desempeño y grandes calificaciones lo llevaron a ejercer la docencia.",
+        "Skills":"Habilidades",
+        "TitleSkill":"Mi nivel técnico",
+        "Frontend":"Desarrollador Frontend",
+        "Backend":"Desarrollador Backend",
+        "Databases":"Bases de Datos",
+        "Design":"Diseño Grafico"
+    },
+    "Footer":{
+        "rights":"derechos reservados",
+        "developer":"Raul Politi desarrolador Web"
+    },
+    "ContactMe":{
+        "Title":"Contactame !",
+        "Name":"Nombre",
+        "Email":"Email",
+        "Proyect":"Tu Proyecto",
+        "Write":"Escribeme",
+        "Placeholder1":"Inserta tu nombre aqui",
+        "Placeholder2":"Insert tu Email aqui",
+        "Placeholder3":"Escribe cual es tu proyecto",
+        "ButtonMessage":"Enviar Mensaje"
+    }
+}

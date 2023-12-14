@@ -1,0 +1,46 @@
+{
+    "Home":"Home",
+    "Notes":"Notes",
+    "About":"About",
+    "Contact":"Contact",
+    "Main":{
+        "Salute":"Hello my Name is Raul",
+        "H1":"Im a FullStack Developer",
+        "H3":"Im a SemiSr Fullstack developer i work with Node.js in the backend and Javascript in the Frontend",
+        "Br":"I also learned React, Express, Bootstrap , Git , Mysql, etc"
+    },
+    "Section":{
+        "Salute":"Hello How Are You Today?",
+        "P1":"I´m Raul Politi a Full Stack Web Developer.",
+        "P2":"I´m graduated of the regional faculty of Tucuman (FRT UNT) i learn C# , Javascript and anothers lenguajes of programation.",
+        "P3":"I learn Node js for the backend and React Js in the Frontend also learn Relational Databases( Mysql , PostgreSql , SqlServer ) and non-relational databases ( MongoDB , JSON ). in Node js i use the framework Express and the framework Next js in React",
+        "P4":"I also developed programs with the MVC Design Pattern (Model View Controller) in .NET connecting the database through layers and levels."
+    },
+    "Aside":{
+        "Title":"A little bit of me",
+        "P1Aside":"Raul Politi is a University Programmer ,dedicated and passionate about web design and development. He was born in 1981, in San Miguel de Tucumán, Argentina. He currently designs, develops and implements web applications giving different solutions to different companies. He began to train in web development, since he discovered his taste and passion for programming, first learning the basics of development and today providing web solution services to third parties. He has worked in different companies, where his commitment and dedication have always been noticed by his employers. He has created projects from the simplest in interface design and templates, to full stack solutions, his favorite being MERN Stack. Over time he has grown professionally, constantly learning the modern technologies used for the implementation of applications.",
+        "P2Aside":" in this last year he became a professor of programming in the regional faculty of tucuman, place where he studied, his great performance and great qualifications led him to teach.",
+        "Skills":"Skills",
+        "TitleSkill":"My technical Level",
+        "Frontend":"Frontend Developer",
+        "Backend":"Backend Developer",
+        "Databases":"Databases",
+        "Design":"Graphic Design"
+
+    },
+    "Footer":{
+        "rights":"All rights reserved",
+        "developer":"©R. Politi Developer 2023"
+    },
+    "ContactMe":{
+        "Title":"Contact Me!",
+        "Name":"Name",
+        "Email":"Email",
+        "Proyect":"Your Proyect",
+        "Write":"Write me",
+        "Placeholder1":"Insert your Name Here",
+        "Placeholder2":"Insert you Email Here",
+        "Placeholder3":"Write your Proyect",
+        "ButtonMessage":"Send Message"
+    }
+}

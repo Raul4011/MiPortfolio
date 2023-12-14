@@ -1,0 +1,86 @@
+a {
+    text-decoration: none;
+  }
+  
+  .paraph {
+    animation-duration: 5s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 15px 15px;
+    color: #00acee;
+  }
+  
+  .icon2 {
+    width: 25px;
+    height: 25px;
+    color: #00acee;
+  }
+  .icon3 {
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px 15px 15px;
+    color: purple;
+  }
+
+  .icon4 {
+    width: 80px;
+    height: 80px;
+   
+    color: red;
+  }
+  span {
+    margin: 25px 0 0 10px;
+  }
+  
+  .cursor {
+    cursor: pointer;
+  }
+  .div-show {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    word-wrap: break-word;
+  }
+  
+  .div-2 {
+    width: 100%;
+    margin: 0px 4px 25px 0px;
+    border: 0 solid #e5e7eb;
+    box-shadow: 5px 5px 5px #999;
+    border-radius: 1rem;
+  }
+  
+  .div-1 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+    height: 50px;
+    border-radius: 1rem;
+    border: 0 solid #e5e7eb;
+    box-shadow: 5px 5px 5px #999;
+  }
+
+  .h2b {
+    /* box-shadow: 5px 5px 5px #999; */
+    text-shadow: 5px 5px 5px rgba(243, 237, 237, 0.5);
+  }
+  .h2a {
+    text-shadow: 5px 5px 5px #999;
+    /* text-shadow: 2px 2px 4px rgba(243, 237, 237, 0.5); */
+  }

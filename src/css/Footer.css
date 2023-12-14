@@ -1,0 +1,18 @@
+.icons {
+  width: 40px;
+  height: 40px;
+}
+
+.icons:hover {
+  transform: scale(1.5) rotate(20deg);
+  transition-duration: 400ms;
+  opacity: 0.7;
+  transition-timing-function: ease-in-out;
+}
+.footer1 {
+  text-shadow: 5px 5px 5px #999;
+}
+
+.footer2 {
+  text-shadow: 5px 5px 5px #999;
+}
